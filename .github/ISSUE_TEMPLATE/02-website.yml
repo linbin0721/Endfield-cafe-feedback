@@ -1,0 +1,38 @@
+name: "网站问题 · Website issue"
+description: "无法打开、按钮或布局异常等 / Loading, controls, or layout problems"
+title: "[网站] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请描述你遇到的网站问题。中文 / English / 日本語 / 한국어均可。
+        Issues 和附件公开可见；请先遮住个人信息，不要粘贴密码或密钥。
+
+        Describe the website problem in your preferred language.
+        Issues and attachments are public. Hide personal information and never post passwords or keys.
+  - type: textarea
+    id: description
+    attributes:
+      label: "问题说明 / What happened?"
+      description: "请说明遇到的问题和你希望看到的结果。 / Describe the problem and the expected behavior."
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: "出问题的页面（选填） / Affected page (optional)"
+      description: "可写页面名称或公开网址；请勿附带私密信息。 / A page name or public URL is enough; omit private information."
+  - type: textarea
+    id: steps
+    attributes:
+      label: "复现步骤（选填） / Steps to reproduce (optional)"
+  - type: textarea
+    id: device
+    attributes:
+      label: "设备与浏览器（选填） / Device and browser (optional)"
+      description: "例如设备型号、系统、浏览器、界面语言、亮色或暗色主题。 / Device, OS, browser, interface language, and light/dark theme may help."
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: "截图或错误提示（选填） / Screenshot or error message (optional)"
+      description: "可在此拖入、粘贴或上传截图；请先遮住个人信息。 / Attach a screenshot after hiding personal information."

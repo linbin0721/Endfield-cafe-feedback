@@ -1,0 +1,24 @@
+name: "功能建议 · Feature request"
+description: "希望增加或改善的功能 / Suggest a new feature or improvement"
+title: "[建议] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        欢迎建议！中文 / English / 日本語 / 한국어均可。
+        Issues 和附件公开可见，请勿包含个人或私密信息。
+
+        Suggestions in your preferred language are welcome.
+        Issues and attachments are public; omit personal or private information.
+  - type: textarea
+    id: description
+    attributes:
+      label: "建议说明 / Your suggestion"
+      description: "你想解决什么问题，希望怎样改善？ / What problem would this solve, and how would you like it to work?"
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: "使用场景或参考（选填） / Context or examples (optional)"
+      description: "可补充使用场景、替代方法或示意图。 / Share context, alternatives, or a mockup if useful."

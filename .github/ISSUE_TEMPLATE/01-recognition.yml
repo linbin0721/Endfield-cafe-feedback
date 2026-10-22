@@ -1,0 +1,42 @@
+name: "识别 / 求解问题 · Recognition or solver issue"
+description: "截图识别失败、结果不符或求解异常 / Screenshot recognition or puzzle-solving problems"
+title: "[识别/求解] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢反馈！请描述发生了什么，以及你预期的结果。中文 / English / 日本語 / 한국어均可。
+        Issues 和附件公开可见；截图请先遮住玩家 UID、账号、聊天等个人信息。
+
+        Thanks for reporting! Describe the problem and the expected result in your preferred language.
+        Issues and attachments are public. Hide personal information before uploading a screenshot.
+  - type: textarea
+    id: description
+    attributes:
+      label: "问题说明 / What happened?"
+      description: "例如：哪一步失败、出现了什么提示、答案哪里不符。 / Include the failing step, error message, or incorrect result."
+    validations:
+      required: true
+  - type: dropdown
+    id: tool
+    attributes:
+      label: "工具 / Tool"
+      options:
+        - "源石电路 / Circuit"
+        - "浮空回收 / Balloon"
+        - "不确定 / Not sure"
+  - type: input
+    id: question-code
+    attributes:
+      label: "题号（选填） / Question code (optional)"
+      placeholder: "例如 / e.g. V40022 或 WL-A2014"
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: "截图（选填） / Screenshot (optional)"
+      description: "可在此拖入、粘贴或上传原始游戏截图；请先遮住个人信息。 / Attach the original game screenshot here after hiding personal information."
+  - type: textarea
+    id: steps
+    attributes:
+      label: "复现步骤与设备（选填） / Steps and device (optional)"
+      description: "是否每次出现？使用什么设备、浏览器和界面语言？ / How can we reproduce it? Which device, browser, and interface language did you use?"
