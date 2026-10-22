@@ -2,7 +2,7 @@
 
 # 엔드필드 CAFE · 피드백 및 제안
 
-[Endfield Workbench](https://endfield.linbin.org/ko/)의 문제 제보와 기능 제안을 받는 저장소입니다.
+[Endfield Workbench](https://endfield.cafe/ko/)의 문제 제보와 기능 제안을 받는 저장소입니다.
 
 [피드백 보내기](https://github.com/linbin0721/Endfield-cafe-feedback/issues/new/choose) · [기존 이슈 보기](https://github.com/linbin0721/Endfield-cafe-feedback/issues)
 

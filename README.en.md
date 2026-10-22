@@ -2,7 +2,7 @@
 
 # Endfield CAFE · Feedback and suggestions
 
-This repository collects bug reports and feature requests for [Endfield Workbench](https://endfield.linbin.org/en/).
+This repository collects bug reports and feature requests for [Endfield Workbench](https://endfield.cafe/en/).
 
 [Submit feedback](https://github.com/linbin0721/Endfield-cafe-feedback/issues/new/choose) · [Browse existing issues](https://github.com/linbin0721/Endfield-cafe-feedback/issues)
 

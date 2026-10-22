@@ -2,7 +2,7 @@
 
 # 终末地 CAFE · 反馈与建议
 
-这里收集[终末地工具台](https://endfield.linbin.org/zh-CN/)的问题反馈与功能建议。
+这里收集[终末地工具台](https://endfield.cafe/zh-CN/)的问题反馈与功能建议。
 
 [提交反馈](https://github.com/linbin0721/Endfield-cafe-feedback/issues/new/choose) · [查看已有问题](https://github.com/linbin0721/Endfield-cafe-feedback/issues)
 

@@ -2,7 +2,7 @@
 
 # エンドフィールド CAFE · フィードバックと提案
 
-[Endfield Workbench](https://endfield.linbin.org/ja/)の不具合報告と機能の提案を受け付けるリポジトリです。
+[Endfield Workbench](https://endfield.cafe/ja/)の不具合報告と機能の提案を受け付けるリポジトリです。
 
 [フィードバックを送る](https://github.com/linbin0721/Endfield-cafe-feedback/issues/new/choose) · [既存の Issue を見る](https://github.com/linbin0721/Endfield-cafe-feedback/issues)
 
