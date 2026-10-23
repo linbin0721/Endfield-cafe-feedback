@@ -1,8 +1,8 @@
 [简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
-# 엔드필드 CAFE · 피드백 및 제안
+# 엔드필드.café · 피드백 및 제안
 
-[Endfield Workbench](https://endfield.cafe/ko/)의 문제 제보와 기능 제안을 받는 저장소입니다.
+[엔드필드.café](https://endfield.cafe/ko/)의 문제 제보와 기능 제안을 받는 저장소입니다.
 
 다음 두 가지 방법으로 피드백을 보낼 수 있습니다.
 

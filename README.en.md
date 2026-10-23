@@ -1,8 +1,8 @@
 [简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
-# Endfield CAFE · Feedback and suggestions
+# endfield.café · Feedback and suggestions
 
-This repository collects bug reports and feature requests for [Endfield Workbench](https://endfield.cafe/en/).
+This repository collects bug reports and feature requests for [endfield.café](https://endfield.cafe/en/).
 
 Choose either feedback channel:
 

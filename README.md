@@ -1,8 +1,8 @@
 [简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
-# 终末地 CAFE · 反馈与建议
+# 终末地.café · 反馈与建议
 
-这里收集[终末地工具台](https://endfield.cafe/zh-CN/)的问题反馈与功能建议。
+这里收集[终末地.café](https://endfield.cafe/zh-CN/)的问题反馈与功能建议。
 
 可以选择以下两种反馈途径：
 

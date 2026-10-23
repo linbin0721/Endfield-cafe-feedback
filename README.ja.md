@@ -1,8 +1,8 @@
 [简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
-# エンドフィールド CAFE · フィードバックと提案
+# エンドフィールド.café · フィードバックと提案
 
-[Endfield Workbench](https://endfield.cafe/ja/)の不具合報告と機能の提案を受け付けるリポジトリです。
+[エンドフィールド.café](https://endfield.cafe/ja/)の不具合報告と機能の提案を受け付けるリポジトリです。
 
 次の2つの方法でフィードバックを送れます。
 
